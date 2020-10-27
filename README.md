@@ -1,2 +1,2 @@
 # Tarea
-Priemra tarea 
+Primera tarea 
